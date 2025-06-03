@@ -1,3 +1,5 @@
+![logo](https://github.com/riyaAgr42/riyaAgr42/blob/main/banner.png.png)
+
 <h1 align="center">Hey 👋, I'm Riya Agrahari</h1>
 <h3 align="center">🚀 A passionate BTech CSE Student | Aspiring Full Stack Developer 🚀</h3>
 
