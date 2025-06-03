@@ -2,9 +2,7 @@
 <h3 align="center">🚀 A passionate BTech CSE Student | Aspiring Full Stack Developer 🚀</h3>
 
 <!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Learning+MERN+Stack;C%2B%2B+%7C+JavaScript+%7C+MongoDB;Aspiring+20+LPA+Engineer+💻" alt="Typing SVG" />
-</p>
+
 
 <!-- Profile Views and Followers -->
 <p align="center">
